@@ -65,9 +65,9 @@ Le diagramme de Classes a été fait avec l'aide de StarUML.
 ## Tests Unitaires
 
 Démonstration au tableau :
-CRUD pour la gestion des clients et gestion des véhicules fonctionnels.
-Location en cours et nouvelles locations fonctionnels
-Limite d'âge pour un véhicule fonctionnel, ex avec l'ajout du client Juliette et une moto avec un âge de 18 ans.
-Fonctionnalités rapports fonctionnels.
-Terminer une location.
-Exécution du script test_rental.py fonctionnel pour appliquer la pénalité de retard dans le terminal python.
+- CRUD pour la gestion des clients et gestion des véhicules fonctionnels.
+- Location en cours et nouvelles locations fonctionnels
+- Limite d'âge pour un véhicule fonctionnel, ex avec l'ajout du client Juliette et une moto avec un âge de 18 ans.
+- Fonctionnalités rapports fonctionnels.
+- Terminer une location.
+- Exécution du script test_rental.py fonctionnel pour appliquer la pénalité de retard dans le terminal python.
